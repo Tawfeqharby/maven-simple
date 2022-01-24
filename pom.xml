@@ -16,9 +16,12 @@
       <artifactId>junit</artifactId>
       <version>4.12</version>
       <scope>test</scope>
+v     <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+      <version>1.16.22</version> 
     </dependency>
   </dependencies>
-  
+   
   <build>
     <plugins>
     
